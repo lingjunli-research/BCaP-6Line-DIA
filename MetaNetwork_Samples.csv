@@ -1,0 +1,16 @@
+SampleID,Experiment
+BPH1-1_log2_int,1Benign
+BPH1-2_log2_int,1Benign
+BPH1-3_log2_int,1Benign
+NT1-1_log2_int,2NonTumorigenic
+NT1-2_log2_int,2NonTumorigenic
+NT1-3_log2_int,2NonTumorigenic
+T1-1_log2_int,3Tumorigenic
+T1-2_log2_int,3Tumorigenic
+T1-3_log2_int,3Tumorigenic
+T10-1_log2_int,4AggressiveTumorigenic
+T10-2_log2_int,4AggressiveTumorigenic
+T10-3_log2_int,4AggressiveTumorigenic
+MT10-1_log2_int,5MetastaticTumorigenic
+MT10-2_log2_int,5MetastaticTumorigenic
+MT10-3_log2_int,5MetastaticTumorigenic
