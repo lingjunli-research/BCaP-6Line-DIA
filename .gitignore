@@ -2,6 +2,7 @@
 *.parquet
 /figures
 /tables
+/data/MetaNetwork
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
